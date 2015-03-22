@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Calcolatore IVA</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="tbImporto">Importo</string>
+    <string name="custom_percentuale_iva">Custom %</string>
+    <string name="iva">IVA</string>
+    <string name="netto">Netto</string>
+    <string name="venidue_percento">22%</string>
+    <string name="dieci_percento">10%</string>
+</resources>
